@@ -1,0 +1,20 @@
+@bsway12
+
+## **Installation**
+```
+python setup.py develop
+```
+
+## **Usage**
+
+### Single player mode
+
+```
+python -m game.tetris_game --mode single
+```
+
+### Two players mode
+
+```
+python -m game.tetris_game --mode double
+```
